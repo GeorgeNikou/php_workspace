@@ -1,0 +1,1 @@
+a:5:{s:8:"username";s:0:"";s:12:"games played";i:0;s:9:"games won";i:0;s:10:"games lost";i:0;s:13:"current tries";i:0;}

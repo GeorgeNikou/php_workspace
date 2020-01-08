@@ -1,0 +1,4 @@
+a:4:{s:8:"username";s:3:"joe";s:5:"email";s:21:"marymirabel@gmail.com";s:8:"password";s:3:"123";s:16:"confirm password";s:3:"123";}
+a:4:{s:8:"username";s:10:"slavyy1232";s:5:"email";s:13:"123@gmail.com";s:8:"password";s:2:"22";s:16:"confirm password";s:2:"22";}
+a:4:{s:8:"username";s:3:"joe";s:5:"email";s:13:"123@gmail.com";s:8:"password";s:3:"123";s:16:"confirm password";s:3:"123";}
+a:4:{s:8:"username";s:3:"joe";s:5:"email";s:24:"george.nikou05@gmail.com";s:8:"password";s:3:"555";s:16:"confirm password";s:3:"555";}

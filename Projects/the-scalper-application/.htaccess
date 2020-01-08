@@ -1,0 +1,7 @@
+php_flag output_buffering on
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+RewriteRule ^(\w*category\w*)/*([a-zA-Z0-9]*)/*$ route.php?controller=events&action=category&params=$2 [L]
+RewriteRule ^([a-zA-Z0-9]+)/*([a-zA-Z0-9]*)/*([a-zA-Z0-9]*)$ route.php?controller=$1&action=$2&params=$3 [L]

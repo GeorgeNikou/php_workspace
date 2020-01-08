@@ -1,0 +1,177 @@
+/*  body{
+	padding-top: 50px;
+}  */
+
+/*  section{
+	width: 750px;
+	margin: 0 auto;
+	border: 2px solid black;
+	border-radius: 5px;
+} 
+*/
+ .header_validate{
+	margin-left: 150px;;
+}
+
+#radio_div{
+	margin-left: 80px;;
+}
+
+/* #radioMale{
+	height: 12px;
+}
+
+#radioFemale{
+	height: 12px;
+} */
+
+.divvy{ /* new added line */
+	margin-left: 80px;
+	padding: 10px;
+}
+
+.pad{
+	padding: 10px;
+}
+
+label{
+	display: inline-block;
+	width: 26%;
+}
+
+#tmp{
+	width: 10%;
+}
+
+#tmp2{
+	width: 53px;
+}
+
+#letter{
+	width: 85%;
+}
+
+input{
+	border-radius: 3px;
+	height: 20px;
+} 
+
+/* // ============================= validation labels ============================= \\ */
+/*   ================================================================================ */
+
+.validateGender{
+	padding: 7px;
+	margin-left: 20px;
+	width: 40%;
+	font-size: 12px;
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: #CCCCCC;
+	text-align: center;
+	display: none; 
+}
+
+
+.validateLastName{
+	margin-left: 20px;
+	width: 40%;
+	padding: 7px;
+	font-size: 12px;
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: #CCCCCC;
+	text-align: center;
+	display: none; 
+}
+
+
+.validateFirstName{
+	margin-left: 20px;
+	width: 40%;padding-top: 7px;
+	padding: 7px;
+	font-size: 12px;
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: #CCCCCC;
+	text-align: center;
+	display: none; 
+}
+
+
+.validateAge{
+	margin-left: 20px;
+	width: 40%;
+	padding: 7px;
+	font-size: 12px;
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: #CCCCCC;
+	text-align: center;
+	display: none; 
+}
+
+
+.validateUsername{
+	margin-left: 20px;
+	width: 40%;
+	padding: 7px;
+	font-size: 12px;
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: #CCCCCC;
+	text-align: center;
+	display: none;  
+}
+
+
+.validatePassword{
+	margin-left: 20px;
+	width: 40%;
+	padding: 7px;
+	font-size: 12px;
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: #CCCCCC;
+	text-align: center;
+	display: none; 
+}
+
+
+.validatePasswordConfirm{
+	margin-left: 20px;
+	width: 40%;
+	padding: 7px;
+	font-size: 12px;
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: #CCCCCC;
+	text-align: center;
+	display: none; 
+}
+
+
+.countryDrop{
+	margin-left: 20px;
+	width: 40%;
+	padding: 7px;
+	font-size: 12px;
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: #CCCCCC;
+	text-align: center;
+	display: none; 
+}
+
+
+
+.validateGender{
+	margin-left: 20px;
+	width: 40%;
+	padding: 7px;
+	font-size: 12px;
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: #CCCCCC;
+	text-align: center;
+	display: none; 
+}

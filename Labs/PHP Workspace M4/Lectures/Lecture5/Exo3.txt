@@ -1,0 +1,8 @@
+Exo 3:
+Create a class "SubPerson" which extends Person and have the following additional
+Properties:
+-gender
+-marital status
+-children = 0
+
+Test this sub class in the main
