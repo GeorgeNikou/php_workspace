@@ -29,7 +29,7 @@ if(isset($_GET['validated'])){
 	<html>
 	<body>
 	<h1>Hi,  ' . $results['username'] . '...!</h1>
-	<p>Thank you for confirming your account you bitch ass nigga!</p>
+	<p>Thank you for confirming your account!</p>
 	<p>---<br>George N.</p>
 	</body>
 	</html>
