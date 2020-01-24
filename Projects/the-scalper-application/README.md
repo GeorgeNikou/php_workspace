@@ -1,6 +1,5 @@
 ## Ticket Purchasing Website
-Team project consisting of four members. Created using a free online template. (MVC pattern)
-
+Team project consisting of four members. Created using a free online template.
 Actions include: 
 * create user
 * Buy ticket
@@ -15,6 +14,6 @@ Admin actions inclcude:
 * create user
 
 ## Database
-* MySQL using phpMyAdmin
+* MySQL
 
 
