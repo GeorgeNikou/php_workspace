@@ -1,3 +1,14 @@
 ## Ticket Purchasing Website
-* group project consisting of three members
-* built using a free online template
+Team project consisting of four members. Created using a free online template.
+Actions include: 
+* create user
+* Buy ticket
+* view categgorized/tickets
+* browse older venues
+Admin actions inclcude: 
+* create venues
+* view venues
+* update venues
+* delete venues
+* create user
+
