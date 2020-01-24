@@ -5,6 +5,7 @@ Actions include:
 * Buy ticket
 * view categgorized/tickets
 * browse older venues
+
 Admin actions inclcude: 
 * create venues
 * view venues
