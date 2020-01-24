@@ -1,5 +1,6 @@
 ## Ticket Purchasing Website
 Team project consisting of four members. Created using a free online template. (MVC pattern)
+
 Actions include: 
 * create user
 * Buy ticket
